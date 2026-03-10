@@ -11,7 +11,7 @@ The platform focuses on modern web standards, search engine optimization, and cl
 
 You can view the live version of the project here:
 
-🔗 **Live Website:** seoagengey.netlify.app
+🔗 🔗 **Live Website:** [seoagengey.netlify.app](https://seoagengey.netlify.app)
 
 ---
 
