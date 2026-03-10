@@ -1,34 +1,88 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SEO-Friendly Agency Website
 
-## Getting Started
+This project is an SEO-friendly agency website developed to deliver a fast, responsive, and high-performance user experience.
+It is built using **Next.js**, **HTML**, **Tailwind CSS**, and **Axios**, with integration to a **Custom REST API** for dynamic data handling.
 
-First, run the development server:
+The platform focuses on modern web standards, search engine optimization, and clean UI design to provide an engaging experience for users while maintaining strong performance and scalability.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+---
+
+## Live Preview
+
+You can view the live version of the project here:
+
+🔗 **Live Website:** seoagengey.netlify.app
+
+---
+
+## Project Preview
+
+Below are some screenshots demonstrating the interface and layout of the website.
+---
+![Project Preview](./project_img/images/project.JPG)
+![Project Preview](./project_img/images/project_img.JPG)
+![Project Preview](./project_img/images/project_img1.JPG)
+![Project Preview](./project_img/images/project_img2.JPG)
+![Project Preview](./project_img/images/project_img3.JPG)
+![Project Preview](./project_img/images/project_img4.JPG)
+![Project Preview](./project_img/images/project_img5.JPG)
+---
+
+## Features
+
+* Fully responsive and modern UI
+* Clean and professional design using **Tailwind CSS**
+* SEO optimization using **Next.js capabilities**
+* Static Site Generation (SSG) for improved performance
+* Dynamic routing for scalable page management
+* Integration with a **Custom REST API**
+* Fast data fetching using **Axios**
+* Optimized page loading speed
+* Intuitive navigation and improved user engagement
+
+---
+
+## Tech Stack
+
+**Frontend Framework**
+
+* Next.js
+
+**Styling**
+
+* HTML
+* Tailwind CSS
+
+**API Communication**
+
+* Axios
+* Custom REST API
+
+**SEO & Performance**
+
+* Static Site Generation (SSG)
+* Dynamic Routing
+
+---
+
+## Project Structure
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+project-root
+│
+├── pages
+│   ├── index.js
+│   ├── about.js
+│   ├── services.js
+│   └── contact.js
+│
+├── components
+│
+├── styles
+│
+├── public
+│
+├── utils
+│
+└── README.md
+```
